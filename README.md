@@ -3,6 +3,6 @@
 - 🌱 I’m currently deepening my skills in full-stack development and exploring integration between ERP systems and modern web tools.  
 - 💼 I have experience working in several manufacturing companies, where I developed and implemented systems for sales, ERP, and financial management.  
 - 💞️ I’m looking to collaborate on impactful web projects, especially those that help businesses scale through automation and digital transformation.  
-- 📫 How to reach me: dandiputran@email.com  
+- 📫 How to reach me: dandiputran@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love simplifying complex workflows into elegant, user-friendly web applications.
